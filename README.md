@@ -1,12 +1,10 @@
 # Python for exploratory data analysis
 
-A CSV analysis workflow tested with Python 3.12. It generates data quality
+An analysis of a manufacturing dataset done in Python 3.12. It generates data quality
 reports, descriptive statistics, distributions, correlations, and optional
-outcome counts without modifying the input or imputing missing values.
+outcome counts without modifying the original contents of the file.
 
 ## Setup
-
-In the prepared cloud environment:
 
 ```bash
 source /workspace/eda-environment/activate.sh
